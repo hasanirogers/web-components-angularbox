@@ -1,3 +1,3 @@
-# web-components-angularbox
+# Angularbox
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/hasanirogers/web-components-angularbox)
+Angularbox is an integration repo demostrating how to use [Kemet UI Web Components](https://kemet.dev) with AlpineJS.
